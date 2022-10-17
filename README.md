@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Third / Ruben Castro
+### Hello there 👋 I'm Ruben Castro
 
 <!--
 **third-castro/third-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
